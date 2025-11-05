@@ -3,7 +3,7 @@
 Hi, I’m Débora 👋
 Web Developer and Systems Analysis & Development student. I love learning new tech, building projects, and sharing knowledge.
 
-Currently exploring: HTML, CSS, JavaScript, React, Node.js, SQL, APIs, Git & GitHub.
+Currently exploring: HTML, CSS, JavaScript, Python, React, Node.js, SQL, APIs, Git & GitHub.
 
  <a href="https://www.linkedin.com/in/d%C3%A9bora-arruda-26781b287/#main-content" target="blank"><img align="center" src="(https://www.linkedin.com/in/d%C3%A9bora-arruda-26781b287/#main-content)" alt="" height="30" width="40"/></a>
 
