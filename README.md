@@ -2,7 +2,7 @@
 
 **QA & Desenvolvedora Python | Estudante de Análise e Desenvolvimento de Sistemas | Explorando IA Generativa & React**
 
-Sou uma profissional em transição de carreira, com background em Farmácia e paixão por tecnologia. Atualmente focada em construir uma base sólida em desenvolvimento e qualidade de software, com interesse especial em automação, testes e inteligência artificial generativa.
+Sou uma profissional em transição de carreira, com background em Farmácia e paixão por tecnologia. Trago uma base forte em pensamento computacional e resolução de problemas, atualmente focada em qualidade de software, automação e inteligência artificial generativa.
 
 ---
 
@@ -29,6 +29,12 @@ Sou uma profissional em transição de carreira, com background em Farmácia e p
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Idiomas**
+
+![Português](https://img.shields.io/badge/Português-Nativo-009739?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Advanced-1A5276?style=for-the-badge)
 
 **IA Generativa**
 
@@ -45,8 +51,6 @@ Sou uma profissional em transição de carreira, com background em Farmácia e p
 | 🧪 **[qa-testes-automatizados](https://github.com/deborarruda-web-developer/LINK)** | Suíte de testes automatizados para aplicação web | Pytest, Selenium, Allure |
 | ⚛️ **[react-dashboard](https://github.com/deborarruda-web-developer/LINK)** | Dashboard interativo com consumo de API | React, Axios, Chart.js |
 | 🤖 **[chatbot-ia-generativa](https://github.com/deborarruda-web-developer/LINK)** | Chatbot inteligente usando LLMs | Python, LangChain, OpenAI API |
-
-> ⚠️ *Substitua os links acima pelos seus repositórios reais à medida que for criando os projetos.*
 
 ---
 
@@ -71,8 +75,8 @@ Sou uma profissional em transição de carreira, com background em Farmácia e p
 
 ## 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](https://deborarruda-web-developer.github.io/LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/SEU-LINKEDIN/](https://www.linkedin.com/in/d%C3%A9bora-arruda-26781b287/)](https://www.linkedin.com/in/d%C3%A9bora-arruda-26781b287/))
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deborarruda7864@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)]([https://deborarruda-web-developer.github.io/LINK](https://github.com/debora-arruda))
 
 ---
