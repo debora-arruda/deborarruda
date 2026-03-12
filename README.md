@@ -80,3 +80,7 @@ Sou uma profissional em transição de carreira, com background em Farmácia e p
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)]([https://deborarruda-web-developer.github.io/LINK](https://github.com/debora-arruda))
 
 ---
+
+![Neurodivergente](https://img.shields.io/badge/Neurodivergente-♾️-purple?style=for-the-badge)
+
+---
