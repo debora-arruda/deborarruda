@@ -1,4 +1,4 @@
-# Olá! Eu sou a Débora de Souza Arruda 👋
+# Olá! Eu sou a Débora S. Arruda 👋
 
 **QA & Desenvolvedora Python | Estudante de Análise e Desenvolvimento de Sistemas | Explorando IA Generativa & React**
 
@@ -47,18 +47,20 @@ Sou uma profissional em transição de carreira, com background em Farmácia e p
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| 🐍 **[automacao-python](https://github.com/deborarruda-web-developer/LINK)** | Scripts de automação e web scraping | Python, BeautifulSoup, Requests |
-| 🧪 **[qa-testes-automatizados](https://github.com/deborarruda-web-developer/LINK)** | Suíte de testes automatizados para aplicação web | Pytest, Selenium, Allure |
-| ⚛️ **[react-dashboard](https://github.com/deborarruda-web-developer/LINK)** | Dashboard interativo com consumo de API | React, Axios, Chart.js |
-| 🤖 **[chatbot-ia-generativa](https://github.com/deborarruda-web-developer/LINK)** | Chatbot inteligente usando LLMs | Python, LangChain, OpenAI API |
+| 🐍 **[automacao-python](https://github.com/debora-arruda/LINK)** | Scripts de automação e web scraping | Python, BeautifulSoup, Requests |
+| 🧪 **[qa-testes-automatizados](https://github.com/debora-arruda/LINK)** | Suíte de testes automatizados para aplicação web | Pytest, Selenium, Allure |
+| ⚛️ **[react-dashboard](https://github.com/debora-arruda/LINK)** | Dashboard interativo com consumo de API | React, Axios, Chart.js |
+| 🤖 **[chatbot-ia-generativa](https://github.com/debora-arruda/LINK)** | Chatbot inteligente usando LLMs | Python, LangChain, OpenAI API |
+
+> ⚠️ *Substitua os links acima pelos seus repositórios reais à medida que for criando os projetos.*
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deborarruda-web-developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborarruda-web-developer&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=debora-arruda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debora-arruda&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -75,12 +77,13 @@ Sou uma profissional em transição de carreira, com background em Farmácia e p
 
 ## 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/SEU-LINKEDIN/](https://www.linkedin.com/in/d%C3%A9bora-arruda-26781b287/)](https://www.linkedin.com/in/d%C3%A9bora-arruda-26781b287/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU-LINKEDIN/](https://www.linkedin.com/in/d%C3%A9bora-arruda-26781b287/))
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deborarruda7864@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)]([https://deborarruda-web-developer.github.io/LINK](https://github.com/debora-arruda))
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)]([https://debora-arruda.github.io/LINK](https://github.com/debora-arruda))
 
 ---
 
 ![Neurodivergente](https://img.shields.io/badge/Neurodivergente-♾️-purple?style=for-the-badge)
+
 
 ---
